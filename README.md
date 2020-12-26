@@ -6,11 +6,16 @@ I always wanted something QUICK for java :).
 This is a quicker way to execute simple java files.
 Nothing complex! just simple stuff.
 
-# Implementation
+# Implementation (Method #1)
 - Download [`jrun.bat`](https://github.com/LSafer/jrun/blob/main/jrun.bat)
 - Search-for/Open `Edit Environment Variables` on `Windows`
 - Edit the environment variable called `PATH`
 - Add a value that points to where the `jrun.bat` file located at in your PC
+- done :)
+
+# Implementation (Method #2)
+- Download [`jrun.bat`](https://github.com/LSafer/jrun/blob/main/jrun.bat)
+- Locate `jrun.bat` to where the targeted java-file is at.
 - done :)
 
 # Usage
