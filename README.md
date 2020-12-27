@@ -22,3 +22,9 @@ Nothing complex! just simple stuff.
 - `jrun <java-file name without the extension> <application parameters>`
 
 This project have been made as simple as possible. For comlext stuff, fork this repo :).
+
+# Known Issues (might get fixed!)
+- Can execute only one nearby file at a time.
+- Therefore, can not accept mutlitple files at a time nor accept nested files.
+- Therefore, can not write a packaged java file. (a file with `package` statement)
+- Also, no external libraries.
